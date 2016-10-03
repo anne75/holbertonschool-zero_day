@@ -1,2 +1,2 @@
 Answer the question:
-Waht is the command to open a file from within emacs
+What is the command to open a file from within emacs
